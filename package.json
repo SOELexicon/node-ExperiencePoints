@@ -1,0 +1,13 @@
+{
+    "name": "node-ExperiencePoints",
+    "version": "0.1",
+    "description": "XP Client",
+    "keywords": ["experiencepoints","XP"],
+    "repository": "git://github.com/SOELexicon/node-ExperiencePoints.git",
+    "author": "Lexicon <lexicon@xpcoin.io>",
+    "main": "lib/xp.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}
